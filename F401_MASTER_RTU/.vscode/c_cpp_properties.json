@@ -1,0 +1,29 @@
+{
+	"configurations": [
+		{
+			"name": "arm_c_cpp_properties",
+			"compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe",
+			"includePath": [
+				"C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Linux/gcc_arm/arm-none-eabi/include",
+				"C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Linux/gcc_arm/arm-none-eabi/include/sys/",
+				"C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Linux/gcc_arm/lib/**",
+
+				"${workspaceRoot}\\Drivers\\**",
+				"${workspaceRoot}\\DriversExt\\**",
+				"${workspaceRoot}\\Middlewares\\**",
+				"${workspaceRoot}\\Src\\**",
+				"${workspaceRoot}\\Inc\\**"
+			],
+			"defines": [
+				"USE_HAL_DRIVER",
+				"STM32F401xC",
+				"M4",
+				"GCC_ARMCM4"
+			],
+			"cStandard": "c11",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "gcc-x64"
+		}
+	],
+	"version": 4
+}

@@ -1,0 +1,16 @@
+{
+	//"cortex-debug.armToolchainPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Linux/gcc_arm/bin",
+	"cortex-debug.enableTelemetry": false,
+	"cortex-debug.JLinkGDBServerPath": "JLinkGDBServerCL.exe",
+	"files.associations": {
+		"usb_device.h": "c",
+		"stm32f1xx.h": "c",
+		"stm32f103xb.h": "c",
+		"main.h": "c",
+		"math.h": "c",
+		"stm32f4xx_hal.h": "c",
+		"stm32f4xx_hal_conf.h": "c",
+		"alc5628.h": "c",
+		"st7735.h": "c"
+	}
+}

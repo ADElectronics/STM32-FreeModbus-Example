@@ -1,0 +1,20 @@
+
+GraphedExpression="adc_data[0]", DisplayFormat=DISPLAY_FORMAT_DEC
+GraphedExpression="adc_data[1]", DisplayFormat=DISPLAY_FORMAT_DEC
+OpenDocument="mbutils.c", FilePath="c:/Users/Andrew/Desktop/STM_FREEMODBUS/F103_SLAVE/Middlewares/FreeModbus/functions/mbutils.c", Line=77
+OpenDocument="stm32f1xx_it.c", FilePath="c:/Users/Andrew/Desktop/STM_FREEMODBUS/F103_SLAVE/Src/stm32f1xx_it.c", Line=70
+OpenDocument="startup_stm32f103xb.s", FilePath="c:/Users/Andrew/Desktop/STM_FREEMODBUS/F103_SLAVE/startup_stm32f103xb.s", Line=48
+OpenDocument="main.c", FilePath="c:/Users/Andrew/Desktop/STM_FREEMODBUS/F103_SLAVE/Src/main.c", Line=58
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=303, h=970, FilterBarShown=1, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=356, h=484, FilterBarShown=0, ToolBarShown=0, ExecCountersShown=0, InstEncodingsShown=0
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ToolBarShown=0, ExecCountersShown=0
+OpenWindow="Watched Data", DockArea=RIGHT, x=0, y=0, w=356, h=485, FilterBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=448, h=331, FilterBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=1, y=0, w=1108, h=331, FilterBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor=Cursor Movable, TimePerDiv=100 ms / Div, TimeStampFormat=Time, DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition=946;0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition=1396;0, CodeGraphLegendShown=0, CodeGraphLegendPosition=1396;0
+TableHeader="Watched Data", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[112;141;98;50]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[168;62;49;57;764]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" adc_data[0]";" adc_data[1]"], ColWidths=[100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Type";"Expression";"Value";"Min";"Max"], ColWidths=[56;107;50;41;194]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Auto";"Name";"Address";"Description"], ColWidths=[26;26;26;31]

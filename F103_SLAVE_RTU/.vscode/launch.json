@@ -1,0 +1,18 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Cortex Debug",
+			"cwd": "${workspaceRoot}",
+			"executable": "./build/Firmware.elf",
+			"svdFile": "./JLink/SVD/STM32F103.svd",
+			"request": "launch",
+			"type": "cortex-debug",
+			"servertype": "jlink",
+			"device": "STM32F103C8",
+			"interface": "swd",
+			"ipAddress": null,
+            "serialNumber": null,
+		}
+	]
+}
